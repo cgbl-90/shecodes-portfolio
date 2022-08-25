@@ -2,17 +2,17 @@
   "name": "responsive-week-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "/index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": "This is a static template, there is no bundler or bundling involved!"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Carmen López",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
