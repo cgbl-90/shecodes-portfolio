@@ -1,0 +1,46 @@
+body {
+  font-family: serif;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 900px;
+}
+#main,
+#about,
+#contacts,
+#projects,
+footer {
+  margin-top: 150px;
+}
+.navbar {
+  width: 100%;
+  white-space: nowrap;
+}
+h1,
+h2,
+h3 {
+  margin: 0px;
+}
+h1 {
+  letter-spacing: -2;
+  font-weight: 700;
+  font-size: 4rem;
+}
+h2 {
+  letter-spacing: -4;
+  font-weight: 400;
+  font-size: 2rem;
+}
+.nav-link {
+  font-size: 2rem;
+  width: 100%;
+}
+p {
+  background: #bbedf5;
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+mark {
+  background-color: white;
+}
